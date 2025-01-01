@@ -1,5 +1,5 @@
-## Hi there 👋
-![logo]()
+
+![logo](https://github.com/tuh12/tuh12/blob/main/TANJIDUR%20RAHMAN%20TUHIN%20(1).png)
 <h1 align="center">Hi 👋, I'm TANJIDUR RAHMAN TUHIN</h1>
 <h3 align="center">A passionate Software Engineer from BANGLADESH</h3>
 
